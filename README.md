@@ -1,0 +1,1 @@
+Description: An app that scans data on a receipt through a camera to organize information in an easy and accessible manner. Useful in splitting items and prices if multiple recipients are involved in one receipt.
